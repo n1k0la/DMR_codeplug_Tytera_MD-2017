@@ -1,0 +1,11 @@
+Contact Name,Call Type,Call ID,Call Receive Tone
+9 Local,1,9,0
+99 Simplex,1,99,0
+9990 Echo,1,9990,0
+BE NOORD,1,2061,0
+BE SUD,1,2062,0
+OnDemand TG 4,1,2064,0
+OnDemand TG 5,1,2065,0
+Contact6,1,6,0
+Contact7,1,7,0
+Contact8,1,8,0
